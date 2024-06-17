@@ -1,0 +1,1 @@
+Olá, este site foi BLOQUEADO por tentativa de DevTools, nossa segurança detectou que você usou DevTools contra este site, por conta disso bloqueamos este site para que não tenha mais tentativas de modificação de codigo, caso não tenha usado, infelizmente não podemos fazer NADA :)
